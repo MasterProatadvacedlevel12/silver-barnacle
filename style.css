@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+
+button{
+    border-radius:60px;
+    background-color: white;
+}
+
+.heading{
+    box-shadow: 5px 5px 5px gray;
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+#status{
+text-align: center;
+}
+
+
+
+canvas{
+border-radius: 20px;
+box-shadow: 5px 5px 5px black;
+margin-top: 70px;
+}
